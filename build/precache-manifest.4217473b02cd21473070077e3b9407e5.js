@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75cc5b0ce7194f464f8197285cebeea9",
+    "revision": "b82bf0db017656f9fdfc7d0f6be46ec5",
     "url": "/index.html"
   },
   {
-    "revision": "fe8a51c3c91f36d0b892",
+    "revision": "1986fe59b9c0f4545918",
     "url": "/static/css/main.c1fb2e21.chunk.css"
   },
   {
-    "revision": "aed0f5eaaf57cb95d61b",
-    "url": "/static/js/2.8deda2d3.chunk.js"
+    "revision": "bd139ecfbf80b4545245",
+    "url": "/static/js/2.ab5504fb.chunk.js"
   },
   {
     "revision": "32e6096ccf0ea0e7941d9d2374401e31",
-    "url": "/static/js/2.8deda2d3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ab5504fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe8a51c3c91f36d0b892",
-    "url": "/static/js/main.45e9b79d.chunk.js"
+    "revision": "1986fe59b9c0f4545918",
+    "url": "/static/js/main.9e41a97d.chunk.js"
   },
   {
     "revision": "b0cd91165fb58f42e093",
@@ -28,12 +28,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ai.7c3f34af.svg"
   },
   {
+    "revision": "2b04ca2e1154691926f1e5421d0e5980",
+    "url": "/static/media/ananya.2b04ca2e.jpeg"
+  },
+  {
     "revision": "dc2a169d51917a3f045aae70cacaeb8c",
     "url": "/static/media/anmol.dc2a169d.png"
   },
   {
     "revision": "b7fa33d648486f551b36bb5c8be3d97e",
     "url": "/static/media/ayurdha.b7fa33d6.png"
+  },
+  {
+    "revision": "611829d34ef1653dd8d13291c1991379",
+    "url": "/static/media/bhuvan.611829d3.jpeg"
+  },
+  {
+    "revision": "0a95514cf42dee7882da0104d6a182f0",
+    "url": "/static/media/chhavi.0a95514c.jpeg"
   },
   {
     "revision": "52f3931eb549d4133064adf3d1855bec",
@@ -48,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cxo.e5f840fc.jpg"
   },
   {
+    "revision": "f14a6b42f5c809c9fed15bb6862bd296",
+    "url": "/static/media/deepak.f14a6b42.jpeg"
+  },
+  {
     "revision": "4ec6c663b0ac09ed62992471be36fb7b",
     "url": "/static/media/designer.4ec6c663.svg"
   },
@@ -58,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5e53dcf1c197e7bb234f3f2afcf308a3",
     "url": "/static/media/digital.5e53dcf1.svg"
+  },
+  {
+    "revision": "75f390ed4a5c3dce1bbd99a9c3f45103",
+    "url": "/static/media/diksha.75f390ed.jpeg"
   },
   {
     "revision": "70457cfa868ce9594732a7e6b959ed69",
@@ -100,6 +120,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/kunal.081b6191.png"
   },
   {
+    "revision": "e154ec615a0a731467a8c5218cea2f77",
+    "url": "/static/media/lakshay.e154ec61.jpeg"
+  },
+  {
     "revision": "2ce4ddc3a5a15d2660a94b4ce8efd91e",
     "url": "/static/media/logo.2ce4ddc3.png"
   },
@@ -120,8 +144,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/om.91ac2d7e.png"
   },
   {
+    "revision": "b8787dbf7437431b56ec9d38444f5013",
+    "url": "/static/media/pallavi.b8787dbf.jpeg"
+  },
+  {
     "revision": "9b55a11023ccb38bd9980cca843e7d93",
     "url": "/static/media/parth.9b55a110.png"
+  },
+  {
+    "revision": "ab0aca5be062e87bb9847be9f60e34b0",
+    "url": "/static/media/pooja.ab0aca5b.jpeg"
+  },
+  {
+    "revision": "5f49bf31986bef026eafe147cace7935",
+    "url": "/static/media/pradnya.5f49bf31.jpeg"
   },
   {
     "revision": "4d681e48f683fb388c6484f8d308e080",
@@ -134,6 +170,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5334cde45dc7f268ff50a0af79ce7382",
     "url": "/static/media/product.5334cde4.svg"
+  },
+  {
+    "revision": "c5962358e34b6283c2013fcea18f4929",
+    "url": "/static/media/rachita.c5962358.jpeg"
   },
   {
     "revision": "6b9113f8b3132cf7069d7bb41d2cb821",
@@ -164,8 +204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/siddharth.4fbd5e45.png"
   },
   {
+    "revision": "75f13cce3772428dcda82eee0721b8e2",
+    "url": "/static/media/suhani.75f13cce.jpeg"
+  },
+  {
     "revision": "a0f7758f265c3a1f3674bad21376a998",
     "url": "/static/media/support.a0f7758f.svg"
+  },
+  {
+    "revision": "fa6884f2b9a178857f74392c4ea4c8b7",
+    "url": "/static/media/upasana.fa6884f2.jpeg"
   },
   {
     "revision": "d0b36f7250162be32e823cb3a76c1927",

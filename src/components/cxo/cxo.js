@@ -3,6 +3,7 @@ import Info from "./info";
 import FaqCXO from "./faqcxo";
 import Cxo from '../../assets/img/cxo.jpg';
 import AboutCXO from "./aboutcxo";
+import Week from "./week1";
 export default function CXO() {
 
 
@@ -24,6 +25,7 @@ export default function CXO() {
             <br /> <strong>- Bruce Lee</strong>
           </h3>
         </div>
+        <Week/>
         <AboutCXO />
         <Info />
       </div>
