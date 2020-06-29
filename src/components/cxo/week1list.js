@@ -84,7 +84,7 @@ export default class Weeklist extends React.Component {
           name: "Upasana Sharma",
           position: "Head of Content",
           image: upasana,
-          college:"Zakir Hussain College, Delhi",
+          college:"Zakir Husain College, Delhi",
         },
         {
           name: "Pooja Chauhan",
