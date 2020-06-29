@@ -54,7 +54,7 @@ export default class Weeklist extends React.Component {
           name: "Chhavi Gupta",
           position: "Head of Design",
           image: chhavi,
-          college:"FORE School of Management",
+          college:"Aayojan School of Architecture",
         },
         {
           name: "Ananya Roy",
@@ -78,13 +78,13 @@ export default class Weeklist extends React.Component {
           name: "Dr. Suhani Jindal",
           position: "Social Media Head",
           image: suhani,
-          college:"Goa Institute of Management",
+          college:"TAPMI Manipal",
         },
         {
           name: "Upasana Sharma",
           position: "Head of Content",
           image: upasana,
-          college:"Zakir Hussein College, Delhi",
+          college:"Zakir Hussain College, Delhi",
         },
         {
           name: "Pooja Chauhan",
@@ -110,7 +110,6 @@ export default class Weeklist extends React.Component {
                 <h4>{team.name}</h4>
                 <span>{team.position}</span>
                 <span>{team.college}</span>
-
               </div>
             </div>
           </div>
