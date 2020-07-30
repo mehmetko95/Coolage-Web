@@ -2,6 +2,7 @@ import React from "react";
 import TeamList from "./week1list";
 
 
+
 export default class Week extends React.Component{
     render(){
         return(

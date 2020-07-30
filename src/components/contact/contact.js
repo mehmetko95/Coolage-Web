@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useFormik } from 'formik';
 import * as Yup from "yup";
-import Firebase from '../../service/firebase';
+import Firebase from 'firebase';
 
 const styles = {
     fontSize: "0.8rem",

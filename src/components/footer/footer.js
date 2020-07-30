@@ -31,6 +31,7 @@ export default function Footer(){
                 <li><i className="bx bx-chevron-right"></i> <NavLink to="/">Home</NavLink></li>
                 <li><i className="bx bx-chevron-right"></i> <NavLink to="/intern">Internships</NavLink></li>
                 <li><i className="bx bx-chevron-right"></i> <NavLink to="/be-a-ceo">Be a CEO</NavLink></li>
+                <li><i className="bx bx-chevron-right"></i> <NavLink to="/community">Join Our Community</NavLink></li>
               </ul>
             </div>
   

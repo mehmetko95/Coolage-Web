@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useFormik } from 'formik';
 import * as Yup from "yup";
-import Firebase from '../../service/firebase';
+import Firebase from 'firebase';
 import Lottie from "react-lottie";
 import invite from '../../lotties/invite.json';
 

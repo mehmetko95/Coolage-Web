@@ -97,6 +97,8 @@ export default class Weeklist extends React.Component {
       ],
     };
   }
+
+  
   render() {
     return (
       <div className="row justify-content-center" data-aos="fade-up">

@@ -20,6 +20,8 @@ render(){
         <Nav.Link > <NavLink exact to ="/intern" activeStyle={{fontWeight:"600"}} style={{color:"white"}}> Internships </NavLink></Nav.Link>
        <Nav.Link > <NavLink to ="/be-a-ceo" activeStyle={{fontWeight:"600"}} style={{color:"white"}}> Be a CEO </NavLink></Nav.Link>
        <Nav.Link > <NavLink to ="/invite" activeStyle={{fontWeight:"600"}} style={{color:"white"}} className="btn-navbar"> Request Invite </NavLink></Nav.Link>
+       <Nav.Link > <NavLink to ="/community" activeStyle={{fontWeight:"600"}} style={{color:"white"}} className="btn-navbar"> Join Our Community </NavLink></Nav.Link>
+       <Nav.Link > <NavLink to ="/project" activeStyle={{fontWeight:"600"}} style={{color:"white"}} className="btn-navbar">Projects</NavLink></Nav.Link>
         </Nav>
       </Navbar.Collapse>
       </div>

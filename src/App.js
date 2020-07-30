@@ -13,6 +13,8 @@ import './assets/css/style.css';
 import Contact from './components/contact/contact';
 import Invite from './components/invite/invite';
 import CXO from './components/cxo/cxo';
+import Community from './components/community/community';
+import Projects from './components/project/projects';
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/invite" component={Invite} />
             <Route exact path="/be-a-ceo" component={CXO} />
+            <Route exact path="/community" component={Community} />
+            <Route exact path="/project" component={Projects} />
             <br />
             <Route path="/404" component={Error} />
             <br />
